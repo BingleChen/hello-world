@@ -1,4 +1,4 @@
-package com.chen.community;
+package demo.study.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
