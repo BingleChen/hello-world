@@ -1,4 +1,4 @@
-package life.majiang.community;
+package com.chen.community;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
